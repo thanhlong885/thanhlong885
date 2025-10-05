@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Long 👋
+I'm an almost 3rd year student at Georgia Tech. 😄 I have recently finished my AA at Hillsborough Community College and transferred. Eager to learn and grow even stronger in the new great environment!
 
+🌱 I’m currently learning Machine Learning: Tensorflow, PyTorch, ...
 <!--
 **thanhlong885/thanhlong885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
