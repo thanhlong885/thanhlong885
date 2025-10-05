@@ -1,5 +1,5 @@
 ## Hi there, I'm Long 👋
-I'm an almost 3rd year student at Georgia Tech. 😄 I have recently finished my AA at Hillsborough Community College and transferred. Eager to learn and grow even stronger in the new great environment!
+I'm an almost 3rd year student at Georgia Tech 😄. I have recently finished my AA at Hillsborough Community College and transferred, so I have to learn a tons to keep up with other GT Juniors. Eager to learn and grow even stronger in the new great environment ⚡⚡⚡
 
 🌱 I’m currently learning Machine Learning: Tensorflow, PyTorch, ...
 <!--
